@@ -3,6 +3,7 @@ Hangman Game
 A simple yet engaging Hangman game built using HTML, CSS, and JavaScript. Choose a category, guess the hidden word, and save the man from being hanged!
 
 Overview
+
 Hangman is a classic word guessing game. This project offers a modern take on the game, allowing users to select categories such as animals, countries, and fruits. Each round, a random word from the chosen category is selected, and players must guess the word letter by letter before the hangman is fully drawn.
 
 Features
