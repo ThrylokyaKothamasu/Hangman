@@ -1,4 +1,5 @@
 Hangman Game
+
 A simple yet engaging Hangman game built using HTML, CSS, and JavaScript. Choose a category, guess the hidden word, and save the man from being hanged!
 
 Overview
